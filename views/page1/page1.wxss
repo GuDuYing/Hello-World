@@ -1,0 +1,6 @@
+/*定义页面样式   CSS语法*/
+
+text{
+	color:#ff0;
+	background-color:#000;
+}
